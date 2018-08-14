@@ -10,11 +10,9 @@ let validator;
 
 const {
   Object: EmberObject,
-  get,
   isEmpty,
   run,
-  set,
-  getOwner
+  set
 } = Ember;
 
 moduleFor('object:model', 'Confirmation Validator', {

@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "https://github.com/dockyard/ember-validations",
+  "repository": "https://github.com/HospitalRun/ember-validations",
   "engines": {
     "node": ">= 0.10.0"
   },

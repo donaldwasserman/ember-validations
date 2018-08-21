@@ -2,16 +2,14 @@
 
 [![Build Status](https://travis-ci.com/HospitalRun/ember-validations.svg?branch=master)](https://travis-ci.com/HospitalRun/ember-validations) 
 
-**[ember-validations is built and maintained by DockYard, contact us for expert Ember.js consulting](https://dockyard.com/ember-consulting)**.
+## What's Going On Here
 
-## WARNING ##
+This addon was forked from [Dockyard's version](https://github.com/DockYard/ember-validations). Hospital Run uses this addon extensively and 
+found it too challenging to replace (although, we're always looking for contributors!).
 
-This addon was forked from [the original one](https://github.com/DockYard/ember-validations). We use it actively and it would have been tough to simply replace that. We hardly will maintain that decently however it could be further developed according to our needs.
+This addon is quite old in the terms of Ember-land. We're working on actively upgrading this to work with modern Ember apps. 
 
-> This addon is no longer actively developed. At DockYard we have switched over to
-> using [ember-changeset-validations](https://github.com/DockYard/ember-changeset-validations/)
-> together with [ember-changeset](https://github.com/DockYard/ember-changeset).
-> We do still maintain this addon.
+You should consider this fork **highly** unstable and subject to change that may or may not reflect the semver version (this may or may not be intentional).
 
 ## Installing ##
 
